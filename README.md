@@ -36,9 +36,6 @@ VOXPOP is a real-time-like polling application that allows users to create polls
    npm install
    ```
 
-3. **Set up Environment Variables**:
-   Create a `.env` file based on `.env.example` (though for local development without Gemini AI features, this is optional for the core polling functionality).
-
 ### Running the App
 
 Start the development server (runs both the Express API and Vite):
@@ -49,18 +46,4 @@ npm run dev
 
 The app will be available at `http://localhost:3000`.
 
-## Project Structure
-voxpop/
-├── src/
-│   ├── App.tsx
-│   ├── index.css
-│   └── main.tsx
-├── .gitignore
-├── index.html
-├── metadata.json
-├── package.json
-├── README.md
-├── server.ts
-├── tsconfig.json
-└── vite.config.ts
 
