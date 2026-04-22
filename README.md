@@ -27,7 +27,7 @@ VOXPOP is a real-time-like polling application that allows users to create polls
 
 1. **Clone the repository** (or download the ZIP):
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/mdmoinpasha80/VOXPOP>
    cd voxpop
    ```
 
@@ -48,20 +48,3 @@ npm run dev
 ```
 
 The app will be available at `http://localhost:3000`.
-
-## 📦 Deployment to GitHub
-
-1. Create a new repository on [GitHub](https://github.com/new).
-2. Follow the instructions to push an existing repository from the command line:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit of VOXPOP"
-   git branch -M main
-   git remote add origin https://github.com/yourusername/voxpop.git
-   git push -u origin main
-   ```
-
-## 📄 License
-
-SPDX-License-Identifier: Apache-2.0
