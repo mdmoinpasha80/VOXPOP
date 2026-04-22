@@ -48,3 +48,20 @@ npm run dev
 ```
 
 The app will be available at `http://localhost:3000`.
+
+
+📁 Project Structure
+voxpop/
+├── 📁 src/                     # Frontend React source code
+│   ├── App.tsx                 # Main application logic and UI
+│   ├── index.css               # Global styles and Tailwind setup
+│   └── main.tsx                # React entry point
+├── 📄 .gitignore               # Files and folders ignored by Git
+├── 📄 index.html               # Root HTML file
+├── 📄 metadata.json            # App metadata (name, description)
+├── 📄 package.json             # Project dependencies and scripts
+├── 📄 README.md                # Project documentation
+├── 📄 server.ts                # Backend server (Express API)
+├── 📄 tsconfig.json            # TypeScript configuration
+└── 📄 vite.config.ts           # Vite build configuration
+
