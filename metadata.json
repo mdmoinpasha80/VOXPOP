@@ -1,0 +1,6 @@
+{
+  "name": "QuickPoll Live",
+  "description": "A real-time polling application for creating, voting, and visualizing poll results with live percentage updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
